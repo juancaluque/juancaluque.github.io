@@ -1,7 +1,7 @@
 ## title
 ## description 
 
-You can use the [editor on GitHub](https://github.com/juancaluque/juancaluque.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am going to declare the music the first step to create a change that is going to matter 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
