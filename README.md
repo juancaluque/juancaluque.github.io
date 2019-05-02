@@ -1,6 +1,6 @@
 I am going to declare the music the first step to create a change that is going to matter 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hope you all agree with me. Those who does not are more than welcome to check my sound cloud page. [The Right Place](https://soundcloud.com/juan-camilo-luque-quitian/tracks)
 
 ### Markdown
 
